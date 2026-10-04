@@ -1,0 +1,16 @@
+venv
+__pycache__
+*.pyc
+*.pyo
+*.spec
+build/
+dist/
+oldExes/
+
+# Personal data and secrets (never commit)
+*.db
+*.log
+.env
+credentials.json
+token.json
+generated/

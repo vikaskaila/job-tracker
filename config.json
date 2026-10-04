@@ -1,0 +1,17 @@
+{
+    "search_terms": [
+        "Quality Management",
+        "Process Improvement",
+        "Logistics Quality Intern",
+        "ISO Audit Praktikum",
+        "Werkstudent Qualit\u00e4tsmanagement",
+        "Praktikum Logistik Qualit\u00e4t",
+        "Quality Intern Supply Chain"
+    ],
+    "location": "Hamburg, Germany",
+    "country": "Germany",
+    "results_wanted": 50,
+    "scrape_interval_hours": 2,
+    "email_check_interval_minutes": 60,
+    "gmail_connected": false
+}
